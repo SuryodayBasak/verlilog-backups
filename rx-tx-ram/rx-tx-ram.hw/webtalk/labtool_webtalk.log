@@ -1,0 +1,9 @@
+
+****** Webtalk v2019.2.1 (64-bit)
+  **** SW Build 2729669 on Thu Dec  5 04:48:12 MST 2019
+  **** IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+    ** Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+
+source /home/ubuntu/Development/vivado-projects/nittany/rx-tx-ram/rx-tx-ram.hw/webtalk/labtool_webtalk.tcl -notrace
+INFO: [Common 17-186] '/home/ubuntu/Development/vivado-projects/nittany/rx-tx-ram/rx-tx-ram.hw/webtalk/usage_statistics_ext_labtool.xml' has been successfully sent to Xilinx on Fri Apr 17 01:41:24 2020. For additional details about this file, please refer to the WebTalk help file at /home/ubuntu/Development/vivado-install/Vivado/2019.2/doc/webtalk_introduction.html.
+INFO: [Common 17-206] Exiting Webtalk at Fri Apr 17 01:41:24 2020...

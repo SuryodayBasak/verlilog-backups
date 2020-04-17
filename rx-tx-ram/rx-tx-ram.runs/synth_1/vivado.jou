@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:48:12 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Fri Apr 17 10:23:18 2020
+# Process ID: 16590
+# Current directory: /home/ubuntu/Development/vivado-projects/nittany/rx-tx-ram/rx-tx-ram.runs/synth_1
+# Command line: vivado -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: /home/ubuntu/Development/vivado-projects/nittany/rx-tx-ram/rx-tx-ram.runs/synth_1/top.vds
+# Journal file: /home/ubuntu/Development/vivado-projects/nittany/rx-tx-ram/rx-tx-ram.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace
